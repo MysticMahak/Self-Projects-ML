@@ -1,0 +1,4 @@
+The codes here were created for diagnosing dermoscopic lesion images using the HAM10000 Dataset, which includes 10,015 skin images categorized into 7 lesion classes. This dataset exhibits a significant class imbalance with an imbalance ratio (IR) of 58. The challenge lies in addressing this imbalance, as standard AIML methods tend to favor common classes, overlooking the rare but crucial "tail" classes. 
+
+The complete Problem Statment and the dataset can be found at:
+https://www.kaggle.com/competitions/aiml-general-championship
